@@ -1,1 +1,5 @@
-this is the initial page
+# Probability study on Blakcjack
+
+$$
+\frac{1,b}
+$$
