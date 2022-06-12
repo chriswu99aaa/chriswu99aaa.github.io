@@ -1,5 +1,3 @@
 # Probability study on Blakcjack
 
-$$
-\frac{1,b}
-$$
+$a = \frac{4}{3}$
