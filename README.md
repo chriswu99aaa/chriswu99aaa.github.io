@@ -1,7 +1,7 @@
 # Probability study on Blakcjack
 
-<math>
-<msqrt>
-<mn>2</mn>
-</msqrt>
-</math>
+```math
+(1/n)\sum_{i=1}^n (w_i - W)^2 = MSE
+```
+Root-mean squred error: the squared-root of the above
+
