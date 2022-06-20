@@ -1,7 +1,2 @@
-# Probability study on Blakcjack
-$$
-  \sqrt{x^2+1}
-$$
-Root-mean squred error: the squared-root of the above
-
+Hi this is my personal learning blog about topics that I had learnt in the University of Manchester regarding Computer Science and Math.
 
